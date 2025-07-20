@@ -2,8 +2,10 @@
 *.tar.gz
 *.zip
 venv*/
+.venv
 envs/
 slurm_logs/
+
 
 sync1.sh
 data_preprocess_pj1
